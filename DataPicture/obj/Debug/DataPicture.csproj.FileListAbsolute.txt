@@ -1,0 +1,14 @@
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\bin\Debug\DataPicture.exe
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\bin\Debug\DataPicture.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\DataPicture.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\MainWindow.g.cs
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\App.g.cs
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\DataPicture_MarkupCompile.cache
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\DataPicture_MarkupCompile.lref
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\MainWindow.baml
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\DataPicture.g.resources
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\DataPicture.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\DataPicture.csproj.GenerateResource.Cache
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\DataPicture.exe
+c:\users\администратор\documents\visual studio 2015\Projects\DataPicture\DataPicture\obj\Debug\DataPicture.pdb
+c:\Users\Администратор\Documents\Visual Studio 2015\Projects\DataPicture\DataPicture\bin\Debug\DataPicture.exe.config

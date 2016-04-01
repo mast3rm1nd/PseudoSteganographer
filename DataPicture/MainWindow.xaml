@@ -1,0 +1,19 @@
+﻿<Window x:Class="DataPicture.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataPicture"
+        mc:Ignorable="d"
+        Title="DataPicture" Height="162" Width="454" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <RadioButton x:Name="Stego_radioButton" Content="Файл &gt; &quot;картинка-шифр&quot;" HorizontalAlignment="Left" Margin="10.914,25,0,0" VerticalAlignment="Top" IsChecked="True" Checked="Stego_radioButton_Checked"/>
+        <Label x:Name="StegoFileame_label" Content="файл не выбран" HorizontalAlignment="Left" Margin="265,19,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="ChooseFileToStego_button" Content="..." HorizontalAlignment="Left" Margin="185,22,0,0" VerticalAlignment="Top" Width="75" Click="ChooseFileToStego_button_Click"/>
+        <RadioButton x:Name="UnStego_radioButton" Content="&quot;Картинка-шифр&quot; &gt; файл" HorizontalAlignment="Left" Margin="10.914,60,0,0" VerticalAlignment="Top" Checked="UnStego_radioButton_Checked"/>
+        <Button x:Name="Button_Go" Content="Зашифровать" HorizontalAlignment="Left" Margin="10.914,90.04,0,0" VerticalAlignment="Top" Width="419.086" Click="Button_Go_Click"/>
+        <Label x:Name="UnStegoFileame_label" Content="файл не выбран" HorizontalAlignment="Left" Margin="265,49,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="ChooseFileToUnstego_button" Content="..." HorizontalAlignment="Left" Margin="185,55,0,0" VerticalAlignment="Top" Width="75" Click="ChooseFileToUnstego_button_Click"/>
+
+    </Grid>
+</Window>
